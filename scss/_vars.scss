@@ -1,0 +1,10 @@
+$marron: #f10e54;
+$red: #ff2400;
+$orange:  #ff4b2d;
+
+@mixin rbnbold{
+  font-family: "RBNo3.1-Extrabold";
+}
+@mixin rbnbook{
+  font-family: "RBNo3.1-Book";
+}
